@@ -50,9 +50,9 @@ const config = {
     {
       title: 'Integrity AI',
       description:
-        '[Integrity Ai](https://integrity-ai.vercel.app/) is an AI-powered detection platform for teachers and schools districts to encourage responsibility with AI learning tools in the classroom. Phase 1 uses a simple detector text-entry to determine if an inputted text is AI-generated.',
+        'Integrity AI is an AI detection platform for teachers and schools districts to encourage responsibility with AI learning tools in the classroom. Our initial release uses a simple detector text-entry to determine if an inputted text is AI-generated.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://integrity-ai.vercel.ap',
     },
     
   ],
@@ -75,7 +75,7 @@ const config = {
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
