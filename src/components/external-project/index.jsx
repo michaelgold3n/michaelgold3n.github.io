@@ -142,7 +142,7 @@ const ExternalProject = ({ externalProjects, loading, googleAnalytics }) => {
                         skeleton({ width: 'w-40', height: 'h-8' })
                       ) : (
                         <span className="text-base-content opacity-70">
-                          My Projects
+                          What I'm working on
                         </span>
                       )}
                     </h5>
