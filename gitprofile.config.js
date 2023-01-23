@@ -30,30 +30,6 @@ const config = {
     'Git',
     'CSS',
   ],
-  experiences: [
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
-  ],
-  /* certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
-    },
-  ], */
   education: [
     {
       institution: 'Moorpark College',
@@ -72,19 +48,13 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Integrity AI',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        '[Integrity Ai](https://integrity-ai.vercel.app/) is an AI-powered detection platform for teachers and schools districts to encourage responsibility with AI learning tools in the classroom. Phase 1 uses a simple detector text-entry to determine if an inputted text is AI-generated.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
+    
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
