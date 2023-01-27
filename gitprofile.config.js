@@ -51,7 +51,7 @@ const config = {
       title: 'Integrity AI',
       description:
         'Integrity AI is an AI detection platform for teachers and schools districts to encourage responsibility with AI learning tools in the classroom. Our initial release uses a simple detector text-entry to determine if an inputted text is AI-generated.',
-      imageUrl: 'https://www.mycwt.com/content/dam/vision/news/blog/how-a-brand-reflects-business-integrity.jpg',
+      imageUrl: 'https://integrity-ai.netlify.app/integrity.png',
       link: 'https://integrity-ai.netlify.app',
     },
     
