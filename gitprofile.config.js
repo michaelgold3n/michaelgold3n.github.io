@@ -11,10 +11,7 @@ const config = {
     },
   },
   social: {
-    twitter: 'michaelgold3n',
-    medium: 'michaelgold3n',
-    dev: 'michaelgold3n',
-    email: 'michaelgold3n@gmail.com',
+    email: 'michaelwilliamgolden@gmail.com',
   },
   resume: {
     fileUrl:
@@ -50,9 +47,9 @@ const config = {
     {
       title: 'Integrity AI',
       description:
-        'Integrity AI is an AI detection platform for teachers and schools districts to encourage responsibility with AI learning tools in the classroom. Our initial release uses a simple detector text-entry to determine if an inputted text is AI-generated.',
+        'Our initial release uses a simple detector text-entry to determine if an inputted text is AI-generated.',
       imageUrl: 'https://integrity-ai.netlify.app/integrity.png',
-      link: 'https://integrity-ai.netlify.app',
+      link: 'https://integrityai.app',
     },
     
   ],
