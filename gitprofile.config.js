@@ -45,7 +45,7 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Integrity AI',
+      title: 'IntegrityAI',
       description:
         'Our initial release uses a simple detector text-entry to determine if an inputted text is AI-generated.',
       imageUrl: 'https://integrity-ai.netlify.app/integrity.png',
