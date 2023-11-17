@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    email: 'michaelwilliamgolden@gmail.com',
+    email: 'mwgolden@ucsd.edu',
   },
   resume: {
     fileUrl:
@@ -35,8 +35,8 @@ const config = {
       to: '2023',
     },
     {
-      institution: 'TBD',
-      degree: 'BS in CS',
+      institution: 'University of California, San Diego',
+      degree: 'Bachelor's of Science in Mathematics and Computer Science',
       from: '2023',
       to: '2025',
     },
@@ -47,8 +47,8 @@ const config = {
     {
       title: 'IntegrityAI',
       description:
-        'Our initial release uses a simple detector text-entry to determine if an inputted text is AI-generated.',
-      imageUrl: 'https://integrity-ai.netlify.app/integrity.png',
+        'Input any text to determine if it is AI-generated.',
+      imageUrl: 'https://integrityai.netlify.app/integrity.png',
       link: 'https://integrityai.app',
     },
     
